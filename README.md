@@ -1,7 +1,7 @@
 # Programming 01 Assignment 2021-2022
 
 # Assignment Title
-How the vaccine has prevented the people of Bangladesh from being infected with Covid-19 and how it decreases the number of death and hospitalization?
+How has the vaccine prevented the people of Bangladesh from being infected with Covid-19 and how it decreases the number of death and hospitalization?
 
 # Files:
 The repository contains following files:
