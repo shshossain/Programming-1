@@ -21,8 +21,8 @@ The repository contains following files:
  * matplotlib 3.5.1
 
 # Author
-M S Hossain
-Master student Data Science for Life Sciences.
+M S Hossain<br/>
+Master student Data Science for Life Sciences.<br/>
 Hanze University of Applied Sciences.
 
 # Project Supervisor
