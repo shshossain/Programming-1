@@ -10,6 +10,14 @@ The repository contains following files:
   * covid-hospitalizations.csv: Contains hospitalizations information.
   * Final_Assignment.ipynb: File that contains code for data analysis and visualization.
   * Assignment_Description.docx
+# Required modules
+ * Python	3.9.7
+ * pandas 1.3.4
+ * bokeh 2.4.1
+ * numpy 1.20.3
+ * plotly 5.5.0
+ * scipy 1.7.1
+ * matplotlib 3.5.1
 
 # Author
 M S Hossain
