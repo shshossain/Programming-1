@@ -12,7 +12,7 @@ The repository contains following files:
   * Assignment_Description.docx
  
  # Data Source:
- All required data has been collected from this [website] (https://ourworldindata.org/coronavirus)
+ All required data has been collected from this [website](https://ourworldindata.org/coronavirus)
   
 # Required modules
  * Python	3.9.7
