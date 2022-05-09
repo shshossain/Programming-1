@@ -10,6 +10,9 @@ The repository contains following files:
   * covid-hospitalizations.csv: Contains hospitalizations information.
   * Final_Assignment.ipynb: File that contains code for data analysis and visualization.
   * Assignment_Description.docx
+ 
+ # Data Source:
+ All required data has been collected from this [website] (https://ourworldindata.org/coronavirus)
   
 # Required modules
  * Python	3.9.7
@@ -26,4 +29,5 @@ Master student Data Science for Life Sciences.<br/>
 Hanze University of Applied Sciences.
 
 # Project Supervisor
-Fenna Feenstra (Hanze University of Applied Sciences)
+Fenna Feenstra<br/>
+Hanze University of Applied Sciences
