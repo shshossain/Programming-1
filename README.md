@@ -9,7 +9,8 @@ The repository contains following files:
   * full_data.csv: Contains covid information.
   * covid-hospitalizations.csv: Contains hospitalizations information.
   * Final_Assignment.ipynb: File that contains code for data analysis and visualization.
-  * Assignment_Description.docx
+  * Programming-1 Report.docx
+  * Programming-1 Report.pdf
  
  # Data Source:
  All required data has been collected from this [website](https://ourworldindata.org/coronavirus)
