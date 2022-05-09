@@ -10,6 +10,7 @@ The repository contains following files:
   * covid-hospitalizations.csv: Contains hospitalizations information.
   * Final_Assignment.ipynb: File that contains code for data analysis and visualization.
   * Assignment_Description.docx
+  * 
 # Required modules
  * Python	3.9.7
  * pandas 1.3.4
